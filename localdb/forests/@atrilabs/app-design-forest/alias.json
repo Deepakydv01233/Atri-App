@@ -1,0 +1,18 @@
+{
+  "BarChart": 1,
+  "Div": 66,
+  "TextBox": 164,
+  "Flex": 150,
+  "Dropdown": 4,
+  "Link": 25,
+  "Image": 59,
+  "Menu": 2,
+  "Accordion": 3,
+  "Checkbox": 1,
+  "Radio": 1,
+  "Carousel": 2,
+  "Step": 1,
+  "Slider": 1,
+  "Input": 1,
+  "Table": 1
+}
